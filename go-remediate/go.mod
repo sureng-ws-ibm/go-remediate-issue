@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/IBM/ibm-healthcheck-operator v0.0.0-20200814142736-c3a3090425eb
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.9.0
 	github.com/golangci/golangci-lint v1.24.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/imdario/mergo v0.3.10 // indirect
